@@ -14,5 +14,5 @@ cd ~/Library/Developer/Xcode/UserData/CodeSnippets
 
 ### 或者你可以
 ```
-alias cdsnip='cd ~/Library/Developer/Xcode/UserData/CodeSnippets’
+alias cdsnip='cd ~/Library/Developer/Xcode/UserData/CodeSnippets'
 ```
