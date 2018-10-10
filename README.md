@@ -8,4 +8,11 @@
 - 这个目录里只有自定义的代码片段，不会影响系统的代码片段
 
 ### 目录
-- cd ~/Library/Developer/Xcode/UserData/CodeSnippets
+```
+cd ~/Library/Developer/Xcode/UserData/CodeSnippets
+```
+
+### 或者你可以
+```
+alias cdsnip='cd ~/Library/Developer/Xcode/UserData/CodeSnippets’
+```
