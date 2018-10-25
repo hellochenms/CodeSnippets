@@ -3,19 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pp</string>
+	<string>vva</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic) &lt;# 类型 #&gt; &lt;#变量名#&gt;;</string>
+	<string>- (void)viewWillAppear:(BOOL)animated {
+    [super viewWillAppear:animated];
+    
+    &lt;#content#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>932B1480-52C7-4F0C-8850-DAFB616A75B7</string>
+	<string>2AB42EE1-CF02-475B-9BEF-03651A3B8B2B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Property</string>
+	<string>viewWillAppear</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
