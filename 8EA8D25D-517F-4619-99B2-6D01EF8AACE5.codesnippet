@@ -7,11 +7,11 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#warning TODO:chenms:</string>
+	<string>#warning TODO:【m2】:</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>8EA8D25D-517F-4619-99B2-6D01EF8AACE5</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>wa</string>
 	<key>IDECodeSnippetUserSnippet</key>

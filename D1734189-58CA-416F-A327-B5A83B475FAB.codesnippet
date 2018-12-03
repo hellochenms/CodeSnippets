@@ -17,9 +17,9 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D1734189-58CA-416F-A327-B5A83B475FAB</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>viewDidAppear</string>
+	<string>vda</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

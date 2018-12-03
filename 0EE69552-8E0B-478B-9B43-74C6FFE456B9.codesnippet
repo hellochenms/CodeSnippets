@@ -13,9 +13,9 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0EE69552-8E0B-478B-9B43-74C6FFE456B9</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Constant String</string>
+	<string>css</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -9,13 +9,13 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"【chenms】&lt;# 对象描述 #&gt;:%@  %s", &lt;# 对象 #&gt;, __func__);</string>
+	<string>NSLog(@"【m2】&lt;# 对象描述 #&gt;:%@  %s", &lt;# 对象 #&gt;, __func__);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>145C6E85-B7B9-4E3D-BBC1-278A1BCE8CBC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>debug log</string>
+	<string>lg</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

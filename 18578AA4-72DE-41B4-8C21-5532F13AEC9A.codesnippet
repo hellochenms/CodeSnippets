@@ -9,13 +9,13 @@
 		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>NSLog(@"【chenms】  %s", __func__);</string>
+	<string>NSLog(@"【m2】  %s", __func__);</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>18578AA4-72DE-41B4-8C21-5532F13AEC9A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Log method</string>
+	<string>lgm</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

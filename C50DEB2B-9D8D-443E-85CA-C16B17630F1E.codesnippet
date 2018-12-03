@@ -14,11 +14,11 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>C50DEB2B-9D8D-443E-85CA-C16B17630F1E</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string>mkn</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Mark-Notifications</string>
+	<string>mkn</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
