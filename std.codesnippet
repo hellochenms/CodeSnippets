@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mkes</string>
+	<string>std</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Event</string>
+	<string>// TODO:@【m2】:&lt;#content#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>EE9E0C1A-7704-4E1D-96B7-253606DF2420</string>
+	<string>1D3D8224-53DD-4C20-9AEB-4C8DFA804967</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mkes</string>
+	<string>std</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

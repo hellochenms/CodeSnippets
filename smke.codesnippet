@@ -3,22 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>slg</string>
+	<string>smke</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print("【m2】&lt;#content#&gt;  \(#function)")</string>
+	<string>// MARK: - Event</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D0B4909D-E9C5-4E3E-9C69-497292E9DDE9</string>
+	<string>EE9E0C1A-7704-4E1D-96B7-253606DF2420</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>slg</string>
+	<string>smke</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
