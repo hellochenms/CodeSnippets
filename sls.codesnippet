@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>slv</string>
+	<string>sls</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private func makeLayout() {
+	<string>override func layoutSubviews() {
+    super.layoutSubviews()
+
     &lt;#content#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4EFBDD84-4AEB-469E-8216-A80377A24546</string>
+	<string>DB6C00FC-680C-4976-844B-95B4FF6C0FF2</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>slv</string>
+	<string>sls</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
