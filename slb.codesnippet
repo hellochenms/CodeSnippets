@@ -3,22 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>scs</string>
+	<string>slb</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: Constants
-private struct Constants {
-    static let &lt;#name#&gt; = &lt;#value#&gt;
-}</string>
+	<string>private lazy var &lt;#name#&gt;: UILabel = {
+    let label = UILabel()
+    
+    return label
+}()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>055A447F-513D-4F6D-9505-4DD80B0B3831</string>
+	<string>E50DCE10-BA0D-4D14-A92C-B3F8694CBAFE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>scs</string>
+	<string>slb</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

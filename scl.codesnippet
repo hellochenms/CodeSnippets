@@ -11,7 +11,13 @@
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var &lt;#name#&gt;: UICollectionView = {
         let layout = UICollectionViewFlowLayout()
+        layout.itemSize = CGSize(width: 0, height: 0)
+        layout.minimumLineSpacing = 0
+        layout.minimumInteritemSpacing = 0
         let collectionView = UICollectionView(frame: .zero, collectionViewLayout: layout)
+    collectionView.register(&lt;#cell-class#&gt;, forCellWithReuseIdentifier: &lt;#cell-identifier#&gt;)
+        collectionView.dataSource = self
+        collectionView.delegate = self
         
         return collectionView
     } ()</string>
@@ -24,6 +30,6 @@
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>
