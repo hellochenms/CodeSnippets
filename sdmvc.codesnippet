@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sdmvc</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>class ViewController: UIViewController {
+    // MARK: Constants
+    private struct Constants {
+        static let cellID = "cellID"
+    }
+    
+    // MARK: Data
+    private lazy var datas: [String] = {
+        let datas = [""]
+        
+        return datas
+    }()
+    
+    // MARK: Views
+    private lazy var tableView: UITableView = {
+        let tableView = UITableView(frame: .zero, style: .plain)
+        tableView.dataSource = self
+        tableView.delegate = self
+        tableView.register(UITableViewCell.self, forCellReuseIdentifier: Constants.cellID)
+        
+        return tableView
+    }()
+}
+
+extension ViewController {
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        
+        addSubViews()
+        makeLayout()
+        
+        if #available(iOS 11.0, *) {
+            tableView.contentInsetAdjustmentBehavior = .never
+        } else {
+            automaticallyAdjustsScrollViewInsets = false
+        }
+    }
+    
+    private func addSubViews() {
+        view.addSubview(tableView)
+    }
+    
+    private func makeLayout() {
+        tableView.translatesAutoresizingMaskIntoConstraints = false
+        tableView.leftAnchor.constraint(equalTo: view.leftAnchor).isActive = true
+        tableView.rightAnchor.constraint(equalTo: view.rightAnchor).isActive = true
+        tableView.topAnchor.constraint(equalTo: view.topAnchor, constant: 64).isActive = true
+        tableView.bottomAnchor.constraint(equalTo: view.bottomAnchor).isActive = true
+    }
+}
+
+extension ViewController: UITableViewDataSource, UITableViewDelegate {
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -&gt; Int {
+        return datas.count
+    }
+    
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -&gt; UITableViewCell {
+        let cell = tableView.dequeueReusableCell(withIdentifier: Constants.cellID, for: indexPath)
+        let data = datas[indexPath.row]
+        cell.textLabel?.text = data
+        
+        return cell
+    }
+    
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        if indexPath.row == 0 {
+            //            let vc = &lt;#class#&gt;()
+            //            navigationController?.pushViewController(vc, animated: true)
+        }
+    }
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>FCC966CF-BD1E-4DE2-8EAD-574B9EF96A7E</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>sdmvc</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sdmvc</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

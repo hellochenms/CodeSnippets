@@ -3,19 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>smke</string>
+	<string>splb</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - Event</string>
+	<string>private lazy var &lt;#name#&gt;: UILabel = {
+    let label = UILabel()
+    
+    return label
+}()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>EE9E0C1A-7704-4E1D-96B7-253606DF2420</string>
+	<string>E50DCE10-BA0D-4D14-A92C-B3F8694CBAFE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>smke</string>
+	<string>splb</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

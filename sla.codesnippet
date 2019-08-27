@@ -3,23 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>svw</string>
+	<string>sla</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private lazy var &lt;#view-name#&gt;: UIView = {
-        var view = UIView()
-        
-        return view
-    }()</string>
+	<string>&lt;#view#&gt;.translatesAutoresizingMaskIntoConstraints = false
+&lt;#view#&gt;.leftAnchor.constraint(equalTo: view.leftAnchor).isActive = true
+&lt;#view#&gt;.rightAnchor.constraint(equalTo: view.rightAnchor).isActive = true
+&lt;#view#&gt;.topAnchor.constraint(equalTo: view.topAnchor, constant: 100).isActive = true
+&lt;#view#&gt;.bottomAnchor.constraint(equalTo: view.bottomAnchor).isActive = true</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>C2C06DB2-B6FF-409D-8DDC-5FD26883A924</string>
+	<string>CCA10F8C-E09E-40B2-AF6F-4BE6C7325CAE</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>sla</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>svw</string>
+	<string>sla</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

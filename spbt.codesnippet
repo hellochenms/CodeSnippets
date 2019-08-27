@@ -3,21 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sav</string>
+	<string>spbt</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>All</string>
+		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private func addSubViews() {
-    &lt;#content#&gt;
-}</string>
+	<string>private lazy var &lt;#button-name#&gt;: UIButton = {
+        var button = UIButton(type: .system)
+        button.setTitle("", for: .normal)
+button.addTarget(self, action: #selector(&lt;#action-name#&gt;), for: .touchUpInside)
+        
+        return button
+    }()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>FEF5EAE8-7FC6-48F3-812B-B24555A24980</string>
+	<string>AD49C6CF-A161-4324-AE81-8651ACB162CF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sav</string>
+	<string>spbt</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

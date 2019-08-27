@@ -3,25 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sbt</string>
+	<string>sslf</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private lazy var &lt;#button-name#&gt;: UIButton = {
-        var button = UIButton(type: .system)
-        button.setTitle("", for: .normal)
-button.addTarget(self, action: #selector(&lt;#action-name#&gt;), for: .touchUpInside)
-        
-        return button
-    }()</string>
+	<string>static let &lt;#name#&gt;: CGFloat = &lt;#value#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>AD49C6CF-A161-4324-AE81-8651ACB162CF</string>
+	<string>232CC196-3DFE-4A77-9AA7-7BDDE1EEDE11</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sbt</string>
+	<string>sslf</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

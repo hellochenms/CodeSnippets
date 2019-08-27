@@ -3,23 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>slb</string>
+	<string>svscaa</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private lazy var &lt;#name#&gt;: UILabel = {
-    let label = UILabel()
-    
-    return label
-}()</string>
+	<string>if #available(iOS 11.0, *) {
+    &lt;#scrollView#&gt;.contentInsetAdjustmentBehavior = .never
+        } else {
+            automaticallyAdjustsScrollViewInsets = false
+        }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E50DCE10-BA0D-4D14-A92C-B3F8694CBAFE</string>
+	<string>E008469D-2ADE-4714-A7A5-0228B5BEF669</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>svscaa</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>slb</string>
+	<string>svscaa</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

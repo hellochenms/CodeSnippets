@@ -3,19 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ssl</string>
+	<string>sc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>static let &lt;#name#&gt; = &lt;#value#&gt;</string>
+	<string>// MARK: Constants
+private struct Constants {
+    static let &lt;#name#&gt; = &lt;#value#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>A7FD645F-916C-4B00-B517-BF256626CD1F</string>
+	<string>055A447F-513D-4F6D-9505-4DD80B0B3831</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ssl</string>
+	<string>sc</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

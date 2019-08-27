@@ -3,23 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>stb</string>
+	<string>setb</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private lazy var &lt;#name#&gt;: UITableView = {
-    let table = UITableView(frame: .zero, style: .plain)
+	<string>extension &lt;#class#&gt;: UITableViewDataSource, UITableViewDelegate {
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -&gt; Int {
+        &lt;#code#&gt;
+    }
     
-    return table
-}()</string>
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -&gt; UITableViewCell {
+        &lt;#code#&gt;
+    }
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2DDE5438-ADC9-499E-A63E-EA9760D96BAF</string>
+	<string>E56B7294-F3ED-4BF6-AB8E-279AED3E641E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>setb</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>stb</string>
+	<string>setb</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,19 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mks</string>
+	<string>sptb</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: - &lt;#content#&gt;</string>
+	<string>private lazy var &lt;#name#&gt;: UITableView = {
+    let tableView = UITableView(frame: .zero, style: .plain)
+    tableView.dataSource = self
+    tableView.delegate = self
+    tableView.register(UITableViewCell.self, forCellReuseIdentifier: Constants.cellID)
+    
+    return tableView
+}()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>2F34B315-9EE0-44D4-AC35-2935DEBEC972</string>
+	<string>2DDE5438-ADC9-499E-A63E-EA9760D96BAF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mks</string>
+	<string>sptb</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

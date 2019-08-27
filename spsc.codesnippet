@@ -3,24 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sms</string>
+	<string>spsc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>CodeBlock</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>&lt;#name#&gt;.mas_makeConstraints { (make) in
-    make?.left.equalTo()()
-    make?.top.equalTo()()
-    make?.right.equalTo()()
-    make?.height.equalTo()()
-}</string>
+	<string>private lazy var scrollView: UIScrollView = {
+        var scrollView = UIScrollView()
+        
+        return scrollView
+    }()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>72D7976D-024D-46EA-A2BD-B7FFC78822CC</string>
+	<string>AE80736C-78F4-4EBC-987B-1710AADD06C7</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>spsc</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sms</string>
+	<string>spsc</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

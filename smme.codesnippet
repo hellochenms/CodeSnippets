@@ -3,19 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>css</string>
+	<string>smme</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>static NSString * const &lt;#name#&gt; = &lt;#value#&gt;;</string>
+	<string>// MARK: - Event
+extension &lt;#class#&gt; {
+    
+}
+</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0EE69552-8E0B-478B-9B43-74C6FFE456B9</string>
+	<string>9D5F7FEE-01A7-466B-B6B1-6EFEFD59BE22</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>smme</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>css</string>
+	<string>smme</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

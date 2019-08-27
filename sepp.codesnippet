@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>sepp</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>extension &lt;#Class#&gt; {
+    private struct ExtensionPropertyKeys {
+        static var key = ""
+    }
+    
+private var &lt;#name#&gt;: &lt;#Class#&gt;? {
+        set {
+            objc_setAssociatedObject(self, &amp;ExtensionPropertyKeys.key, newValue, .OBJC_ASSOCIATION_RETAIN_NONATOMIC)
+        }
+        get {
+            return objc_getAssociatedObject(self, &amp;ExtensionPropertyKeys.key) as? &lt;#Class#&gt;
+        }
+    }
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>BCC4E16F-7F43-4BAA-8FFD-D723B09A111F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>sepp</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
