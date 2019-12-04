@@ -3,26 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ml</string>
+	<string>cbtn</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)makeLayout {
-    
-}</string>
+	<string>_Button = [UIButton buttonWithType:UIButtonTypeSystem];
+[_Button setTitle:@"" forState:UIControlStateNormal];
+[_Button addTarget:self action:@selector(onTap) forControlEvents:UIControlEventTouchUpInside];</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>14150BD6-AC97-43CD-B4A8-91E09931F418</string>
+	<string>746356BB-1C61-416D-A6F7-80F3CBDE62B2</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>cbtn</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ml</string>
+	<string>cbtn</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

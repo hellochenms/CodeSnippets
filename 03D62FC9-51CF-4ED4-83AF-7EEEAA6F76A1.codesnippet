@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ml</string>
+	<string>wsf</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (void)makeLayout {
-    
-}</string>
+	<string>__weak typeof(self) wSelf = self;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>14150BD6-AC97-43CD-B4A8-91E09931F418</string>
+	<string>03D62FC9-51CF-4ED4-83AF-7EEEAA6F76A1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ml</string>
+	<string>wsf</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
