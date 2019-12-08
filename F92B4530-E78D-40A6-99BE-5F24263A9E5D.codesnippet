@@ -3,25 +3,25 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>cal</string>
+	<string>scal</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>self.xxx.translatesAutoresizingMaskIntoConstraints = NO;
-[self.xxx.centerXAnchor constraintEqualToAnchor:self.view.centerXAnchor].active = YES;</string>
+	<string>xxx.translatesAutoresizingMaskIntoConstraints = false;
+xxx.centerXAnchor.constraint(equalTo: yyy.centerXAnchor).isActive = true</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B798DCD3-4810-4477-832F-20DF860B1F77</string>
+	<string>F92B4530-E78D-40A6-99BE-5F24263A9E5D</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>cal</string>
+	<string>scal</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>cal</string>
+	<string>scal</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

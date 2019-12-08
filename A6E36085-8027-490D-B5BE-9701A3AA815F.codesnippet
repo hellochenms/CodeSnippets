@@ -3,25 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>cal</string>
+	<string>smke</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>self.xxx.translatesAutoresizingMaskIntoConstraints = NO;
-[self.xxx.centerXAnchor constraintEqualToAnchor:self.view.centerXAnchor].active = YES;</string>
+	<string>// MARK: - Event</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>B798DCD3-4810-4477-832F-20DF860B1F77</string>
+	<string>A6E36085-8027-490D-B5BE-9701A3AA815F</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>cal</string>
+	<string>smke</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>cal</string>
+	<string>smke</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
