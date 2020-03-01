@@ -9,11 +9,13 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>print("【m2】&lt;#content#&gt;  \(#function)")</string>
+	<string>print("【m2】&lt;#content#&gt; 【\((#file as NSString).lastPathComponent):\(#line):\(#function)】")</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>D0B4909D-E9C5-4E3E-9C69-497292E9DDE9</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>slg</string>
 	<key>IDECodeSnippetUserSnippet</key>
