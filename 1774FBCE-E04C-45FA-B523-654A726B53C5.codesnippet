@@ -3,25 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pbtn</string>
+	<string>smk</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>_Button = [UIButton buttonWithType:UIButtonTypeSystem];
-[_Button setTitle:@"" forState:UIControlStateNormal];
-[_Button addTarget:self action:@selector(onTap) forControlEvents:UIControlEventTouchUpInside];</string>
+	<string>// MARK: </string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>746356BB-1C61-416D-A6F7-80F3CBDE62B2</string>
+	<string>1774FBCE-E04C-45FA-B523-654A726B53C5</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>pbtn</string>
+	<string>smk</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pbtn</string>
+	<string>smk</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

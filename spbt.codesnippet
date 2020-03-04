@@ -20,6 +20,8 @@ button.addTarget(self, action: #selector(&lt;#action-name#&gt;), for: .touchUpIn
 	<string>AD49C6CF-A161-4324-AE81-8651ACB162CF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>spbt</string>
 	<key>IDECodeSnippetUserSnippet</key>
