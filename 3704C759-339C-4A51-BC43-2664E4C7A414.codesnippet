@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>smkl</string>
+	<string>stdu</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: Life Cycle</string>
+	<string>// TODO: 需要微调 UI</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D4377559-5882-45D4-952A-B90B5BD14C95</string>
+	<string>3704C759-339C-4A51-BC43-2664E4C7A414</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>stdu</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>smkl</string>
+	<string>stdu</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

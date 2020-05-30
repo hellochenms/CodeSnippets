@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>smkl</string>
+	<string>smkv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: Life Cycle</string>
+	<string>// MARK: View</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D4377559-5882-45D4-952A-B90B5BD14C95</string>
+	<string>824625AB-AEA7-4823-A6EF-C68D6222BDB4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>smkv</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>smkl</string>
+	<string>smkv</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
