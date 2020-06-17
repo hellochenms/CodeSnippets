@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>smkv</string>
+	<string>sag</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: View</string>
+	<string>private func addGestureRecognizers() {
+    
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>824625AB-AEA7-4823-A6EF-C68D6222BDB4</string>
+	<string>5F840304-E110-4A80-8E2E-B48217C7858F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>smkv</string>
+	<string>sag</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>smkv</string>
+	<string>sag</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

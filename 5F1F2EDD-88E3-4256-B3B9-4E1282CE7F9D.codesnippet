@@ -3,24 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>smkd</string>
+	<string>srml</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: Define</string>
+	<string>private func reMakeLayout(shouldForceRefresh: Bool = false) {
+
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>AA82F91D-996D-41EE-BE6B-5CF3EA392744</string>
+	<string>5F1F2EDD-88E3-4256-B3B9-4E1282CE7F9D</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>smkd</string>
+	<string>srml</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>smkd</string>
+	<string>srml</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

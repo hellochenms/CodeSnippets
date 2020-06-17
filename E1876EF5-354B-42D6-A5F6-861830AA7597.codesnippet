@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>smkc</string>
+	<string>smkklv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: Callback</string>
+	<string>// MARK: - Loading View</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4D4FC3AF-8047-44AD-959D-1F6E07541568</string>
+	<string>E1876EF5-354B-42D6-A5F6-861830AA7597</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>smkc</string>
+	<string>smkklv</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>smkc</string>
+	<string>smkklv</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

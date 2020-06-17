@@ -3,24 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>smkv</string>
+	<string>sptf</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: View</string>
+	<string>private lazy var valueTextField: UITextField = {
+    var textField = UITextField()
+    
+    return textField
+}()</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>824625AB-AEA7-4823-A6EF-C68D6222BDB4</string>
+	<string>9604AA52-8C82-4F05-8E34-C2FBEE910C37</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>smkv</string>
+	<string>sptf</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>smkv</string>
+	<string>sptf</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

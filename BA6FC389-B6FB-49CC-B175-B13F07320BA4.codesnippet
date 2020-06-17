@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>smkf</string>
+	<string>smkkla</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: Flag</string>
+	<string>// MARK: - Layout</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>31F05FC8-E96D-4AC3-B3C1-D3F4C3E6384D</string>
+	<string>BA6FC389-B6FB-49CC-B175-B13F07320BA4</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>smkf</string>
+	<string>smkkla</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>smkf</string>
+	<string>smkkla</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>0</integer>
+	<integer>2</integer>
 </dict>
 </plist>

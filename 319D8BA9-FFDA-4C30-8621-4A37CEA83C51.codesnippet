@@ -3,21 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>smkv</string>
+	<string>sviic</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: View</string>
+	<string>// MARK: Init
+public init(_ initializer: ((&lt;#class#&gt;) -&gt; Void)?) {
+    super.init(frame: .zero)
+    
+    initializer?(self)
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>824625AB-AEA7-4823-A6EF-C68D6222BDB4</string>
+	<string>319D8BA9-FFDA-4C30-8621-4A37CEA83C51</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>smkv</string>
+	<string>sviic</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>smkv</string>
+	<string>sviic</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

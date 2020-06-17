@@ -10,14 +10,16 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var &lt;#name#&gt;: UIImageView = {
-        let imageView = UIImageView()
+        let view = UIImageView()
         
-        return imageView
+        return view
     }()</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>964857CF-7A4C-4200-A759-2BFD4410940C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>spim</string>
 	<key>IDECodeSnippetUserSnippet</key>
