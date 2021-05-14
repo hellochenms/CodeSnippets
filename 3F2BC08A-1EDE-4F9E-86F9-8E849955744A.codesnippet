@@ -3,28 +3,31 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sscvc</string>
+	<string>stbd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if #available(iOS 11.0, *) {
-    &lt;#scrollView#&gt;.contentInsetAdjustmentBehavior = .never
-} else {
-    automaticallyAdjustsScrollViewInsets = false
+	<string>extension &lt;#name#&gt;: UITableViewDataSource, UITableViewDelegate {
+    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -&gt; Int {
+        return 0
+    }
+    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -&gt; UITableViewCell {
+        return UITableViewCell()
+    }
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E008469D-2ADE-4714-A7A5-0228B5BEF669</string>
+	<string>3F2BC08A-1EDE-4F9E-86F9-8E849955744A</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>sscvc</string>
+	<string>stbd</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sscvc</string>
+	<string>stbd</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

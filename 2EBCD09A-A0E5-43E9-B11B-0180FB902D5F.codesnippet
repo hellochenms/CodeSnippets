@@ -3,28 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sscvc</string>
+	<string>socf</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if #available(iOS 11.0, *) {
-    &lt;#scrollView#&gt;.contentInsetAdjustmentBehavior = .never
-} else {
-    automaticallyAdjustsScrollViewInsets = false
+	<string>@objc private func &lt;#name#&gt;() {
+
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E008469D-2ADE-4714-A7A5-0228B5BEF669</string>
+	<string>2EBCD09A-A0E5-43E9-B11B-0180FB902D5F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>sscvc</string>
+	<string>socf</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sscvc</string>
+	<string>socf</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>
