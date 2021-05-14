@@ -3,25 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sptf</string>
+	<string>calch</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private lazy var valueTextField: UITextField = {
-    var textField = UITextField()
-    
-    return textField
-}()</string>
+	<string>static func calculatedHeight() -&gt; CGFloat {
+    &lt;#content#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9604AA52-8C82-4F05-8E34-C2FBEE910C37</string>
+	<string>237E0055-B991-4CB4-8CD8-621071E8ED9F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>sptf</string>
+	<string>calch</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sptf</string>
+	<string>calch</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,25 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sptf</string>
+	<string>zc1110</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private lazy var valueTextField: UITextField = {
-    var textField = UITextField()
-    
-    return textField
-}()</string>
+	<string>// @chenms-v1.11.0</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9604AA52-8C82-4F05-8E34-C2FBEE910C37</string>
+	<string>769FC78C-307F-4BC0-A7D0-28D96031062B</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>sptf</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sptf</string>
+	<string>zc1110</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -3,25 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sptf</string>
+	<string>smkkrd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private lazy var valueTextField: UITextField = {
-    var textField = UITextField()
-    
-    return textField
-}()</string>
+	<string>// MARK: - Reload Data</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>9604AA52-8C82-4F05-8E34-C2FBEE910C37</string>
+	<string>8A75C939-CA98-4CD6-98A3-E2F016F43967</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>sptf</string>
+	<string>smkkrd</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sptf</string>
+	<string>smkkrd</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
