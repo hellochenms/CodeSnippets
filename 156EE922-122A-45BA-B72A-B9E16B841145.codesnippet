@@ -3,28 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>stbd</string>
+	<string>smkkcd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>extension &lt;#name#&gt;: UITableViewDataSource, UITableViewDelegate {
-    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -&gt; Int {
-        return 0
-    }
-    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -&gt; UITableViewCell {
-        return UITableViewCell()
-    }
-}</string>
+	<string>// MARK: - Config Data</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3F2BC08A-1EDE-4F9E-86F9-8E849955744A</string>
+	<string>156EE922-122A-45BA-B72A-B9E16B841145</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>stbd</string>
+	<string>smkkcd</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>stbd</string>
+	<string>smkkcd</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

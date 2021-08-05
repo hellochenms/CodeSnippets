@@ -3,28 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>stbd</string>
+	<string>sar</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>extension &lt;#name#&gt;: UITableViewDataSource, UITableViewDelegate {
-    func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -&gt; Int {
-        return 0
-    }
-    func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -&gt; UITableViewCell {
-        return UITableViewCell()
-    }
+	<string>private func addRecognizers() {
+    let tap = UITapGestureRecognizer(target: self, action: #selector(onTapSelf))
+    addGestureRecognizer(tap)
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3F2BC08A-1EDE-4F9E-86F9-8E849955744A</string>
+	<string>B0FEE29B-62EE-42EB-943A-EC203BE87B6E</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>stbd</string>
+	<string>sar</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>stbd</string>
+	<string>sar</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
