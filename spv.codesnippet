@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var &lt;#view-name#&gt;: UIView = {
-        var view = UIView()
+        let view = UIView()
         
         return view
     }()</string>
@@ -18,6 +18,8 @@
 	<string>C2C06DB2-B6FF-409D-8DDC-5FD26883A924</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>spv</string>
 	<key>IDECodeSnippetUserSnippet</key>

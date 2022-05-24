@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var &lt;#button-name#&gt;: UIButton = {
-        var button = UIButton(type: .system)
+        let button = UIButton(type: .system)
         button.setTitle("", for: .normal)
 button.addTarget(self, action: #selector(&lt;#action-name#&gt;), for: .touchUpInside)
         

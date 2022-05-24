@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>soe</string>
+	<string>smkpb</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@objc private func &lt;#name#&gt;() {
-    
-}</string>
+	<string>// MARK: Public Property</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>D525449D-4EE7-4DA0-9F70-F5DCA6267AB1</string>
+	<string>85637F2E-B3AC-4EB0-B091-4BB0715998E6</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>@objc 事件方法</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>soe</string>
+	<string>smkpb</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

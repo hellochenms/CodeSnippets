@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sc</string>
+	<string>smkcv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>ClassImplementation</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// MARK: Constants
+	<string>// MARK: Private Constants
 private struct Constants {
     static let &lt;#name#&gt; = &lt;#value#&gt;
 }</string>
@@ -17,8 +17,10 @@ private struct Constants {
 	<string>055A447F-513D-4F6D-9505-4DD80B0B3831</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sc</string>
+	<string>smkcv</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var valueTextField: UITextField = {
-    var textField = UITextField()
+    let textField = UITextField()
     
     return textField
 }()</string>

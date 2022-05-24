@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var scrollView: UIScrollView = {
-        var scrollView = UIScrollView()
+        let scrollView = UIScrollView()
         
         return scrollView
     }()</string>
