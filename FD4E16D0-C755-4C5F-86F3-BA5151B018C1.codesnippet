@@ -3,26 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sas</string>
+	<string>smka</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>private func addSubViews() {
-    &lt;#content#&gt;
-}</string>
+	<string>// MARK: Add Views</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>FD218075-72EA-4B01-BB33-9F601B04019B</string>
+	<string>FD4E16D0-C755-4C5F-86F3-BA5151B018C1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sas</string>
+	<string>smka</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

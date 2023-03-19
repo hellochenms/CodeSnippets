@@ -6,7 +6,7 @@
 	<string>spbt</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var &lt;#button-name#&gt;: UIButton = {

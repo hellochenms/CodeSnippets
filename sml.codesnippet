@@ -6,7 +6,7 @@
 	<string>sml</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private func makeLayout() {
@@ -16,6 +16,8 @@
 	<string>DFFBB68B-DDBC-410A-9083-C52397D99684</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>sml</string>
 	<key>IDECodeSnippetUserSnippet</key>
