@@ -6,7 +6,7 @@
 	<string>sptb</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var &lt;#name#&gt;: UITableView = {
@@ -21,6 +21,8 @@
 	<string>2DDE5438-ADC9-499E-A63E-EA9760D96BAF</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>sptb</string>
 	<key>IDECodeSnippetUserSnippet</key>

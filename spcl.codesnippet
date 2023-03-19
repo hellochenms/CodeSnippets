@@ -6,7 +6,7 @@
 	<string>spcl</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>private lazy var &lt;#name#&gt;: UICollectionView = {
@@ -25,6 +25,8 @@
 	<string>A25357D7-4129-43F9-A860-5CE5C75AA2BC</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
 	<string>spcl</string>
 	<key>IDECodeSnippetUserSnippet</key>
