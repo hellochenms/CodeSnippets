@@ -11,16 +11,16 @@
 	<key>IDECodeSnippetContents</key>
 	<string>// MARK: LayoutConstants
 private struct LayoutConstants {
-    &lt;#content#&gt;
+    static let &lt;#name#&gt;: CGFloat = &lt;#value#&gt;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>79D7BA98-9E36-40E2-A3D6-4B2AE49E9106</string>
+	<string>2CF7CCD6-C9B3-4704-B515-D4E6D364D1F8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>slc</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>slc</string>
+	<string>LayoutConstants</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

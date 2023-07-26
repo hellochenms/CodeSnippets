@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pp</string>
+	<string>sc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic)  类型  变量名;</string>
+	<string>class Constants {
+    static let &lt;#name#&gt; = &lt;#value#&gt;
+}</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>932B1480-52C7-4F0C-8850-DAFB616A75B7</string>
+	<string>384324CA-6DA5-426B-B620-1CE645CD3105</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>pp</string>
+	<string>sc</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
