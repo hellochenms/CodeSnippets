@@ -3,25 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>oscvc</string>
+	<string>opbt</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if #available(iOS 11.0, *) {
-    &lt;#scrollView#&gt;.contentInsetAdjustmentBehavior = .never
-} else {
-    automaticallyAdjustsScrollViewInsets = false
+	<string>- (UIButton *)xxx {
+    if (!_xxx) {
+        _xxx = [UIButton buttonWithType:UIButtonTypeSystem];
+        [_xxx setTitle:@"" forState:UIControlStateNormal];
+        [_xxx addTarget:self action:@selector(onTap1) forControlEvents:UIControlEventTouchUpInside];
+    }
+    return _xxx;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E008469D-2ADE-4714-A7A5-0228B5BEF669</string>
+	<string>48E85A2B-9133-4D39-8935-EB35CE0FFAF6</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>swift scrollview viewcontroller</string>
+	<string>oc property button</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sscvc</string>
+	<string>opbt</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

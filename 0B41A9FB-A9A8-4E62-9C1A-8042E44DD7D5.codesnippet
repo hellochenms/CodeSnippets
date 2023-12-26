@@ -3,28 +3,34 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>oscvc</string>
+	<string>oplb</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if #available(iOS 11.0, *) {
-    &lt;#scrollView#&gt;.contentInsetAdjustmentBehavior = .never
-} else {
-    automaticallyAdjustsScrollViewInsets = false
+	<string>- (UILabel *)xxx {
+    if (!_xxx) {
+        _xxx = [UILabel new];
+        _xxx.backgroundColor = [UIColor clearColor];
+        _xxx.textAlignment = NSTextAlignmentLeft;
+        _xxx.font = [UIFont systemFontOfSize:20];
+        _xxx.textColor = UIColor.blackColor;
+        _xxx.text = @"";
+    }
+    return _xxx;
 }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E008469D-2ADE-4714-A7A5-0228B5BEF669</string>
+	<string>0B41A9FB-A9A8-4E62-9C1A-8042E44DD7D5</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>swift scrollview viewcontroller</string>
+	<string>oplb</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sscvc</string>
+	<string>oplb</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

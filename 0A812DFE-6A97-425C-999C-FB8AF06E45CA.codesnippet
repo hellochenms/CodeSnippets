@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>optb</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>- (UITableView *)xxx {
+    if (!_xxx) {
+        _xxx = [[UITableView alloc] initWithFrame: CGRectZero style:UITableViewStylePlain];
+        _xxx.backgroundColor = [UIColor blueColor];
+        _xxx.dataSource = self;
+        _xxx.delegate = self;
+        [_xxx registerClass:[UITableViewCell class] forCellReuseIdentifier:@"UITableViewCell"];
+        if (@available(iOS 11.0, *)) {
+            _xxx.contentInsetAdjustmentBehavior = UIScrollViewContentInsetAdjustmentNever;
+        } else {
+            self.automaticallyAdjustsScrollViewInsets = NO;
+        }
+    }
+    return _xxx;
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0A812DFE-6A97-425C-999C-FB8AF06E45CA</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
+	<key>IDECodeSnippetTitle</key>
+	<string>optb</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

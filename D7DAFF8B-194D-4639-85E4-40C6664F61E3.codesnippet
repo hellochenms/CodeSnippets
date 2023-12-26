@@ -9,19 +9,19 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>if #available(iOS 11.0, *) {
-    &lt;#scrollView#&gt;.contentInsetAdjustmentBehavior = .never
-} else {
-    automaticallyAdjustsScrollViewInsets = false
-}</string>
+	<string>        if (@available(iOS 11.0, *)) {
+            &lt;#scrollView#&gt;.contentInsetAdjustmentBehavior = UIScrollViewContentInsetAdjustmentNever;
+        } else {
+            self.automaticallyAdjustsScrollViewInsets = NO;
+        }</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E008469D-2ADE-4714-A7A5-0228B5BEF669</string>
+	<string>D7DAFF8B-194D-4639-85E4-40C6664F61E3</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>swift scrollview viewcontroller</string>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>sscvc</string>
+	<string>oscvc</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic)  类型  变量名;</string>
+	<string>@property (nonatomic) &lt;#类型#&gt; &lt;#变量名#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>932B1480-52C7-4F0C-8850-DAFB616A75B7</string>
 	<key>IDECodeSnippetLanguage</key>
