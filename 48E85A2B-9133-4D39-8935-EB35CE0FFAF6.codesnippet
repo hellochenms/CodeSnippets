@@ -11,7 +11,7 @@
 	<key>IDECodeSnippetContents</key>
 	<string>- (UIButton *)xxx {
     if (!_xxx) {
-        _xxx = [UIButton buttonWithType:UIButtonTypeSystem];
+        _xxx = [UIButton buttonWithType:UIButtonTypeCustom];
         [_xxx setTitle:@"" forState:UIControlStateNormal];
         [_xxx addTarget:self action:@selector(onTap1) forControlEvents:UIControlEventTouchUpInside];
     }

@@ -9,13 +9,15 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// TODO:@【m2】:&lt;#content#&gt;</string>
+	<string>// TODO: chenms-4.2.0-&lt;#content#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>1D3D8224-53DD-4C20-9AEB-4C8DFA804967</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>std</string>
+	<string>stdhh</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

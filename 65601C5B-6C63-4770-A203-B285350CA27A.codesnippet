@@ -3,31 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>oplb</string>
+	<string>stdhht</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (UILabel *)xxx {
-    if (!_xxx) {
-        _xxx = [UILabel new];
-        _xxx.backgroundColor = [UIColor clearColor];
-        _xxx.textAlignment = NSTextAlignmentLeft;
-        _xxx.font = [UIFont systemFontOfSize:20];
-        _xxx.textColor = UIColor.blackColor;
-        _xxx.text = @"";
-    }
-    return _xxx;
-}</string>
+	<string>// TODO: chenms-4.2.0-temp</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0B41A9FB-A9A8-4E62-9C1A-8042E44DD7D5</string>
+	<string>65601C5B-6C63-4770-A203-B285350CA27A</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>oplb</string>
+	<string>stdhht</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>oplb</string>
+	<string>stdhht</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

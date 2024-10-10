@@ -3,31 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>oplb</string>
+	<string>oiu</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>- (UILabel *)xxx {
-    if (!_xxx) {
-        _xxx = [UILabel new];
-        _xxx.backgroundColor = [UIColor clearColor];
-        _xxx.textAlignment = NSTextAlignmentLeft;
-        _xxx.font = [UIFont systemFontOfSize:20];
-        _xxx.textColor = UIColor.blackColor;
-        _xxx.text = @"";
-    }
-    return _xxx;
-}</string>
+	<string>- (instancetype)init NS_UNAVAILABLE;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>0B41A9FB-A9A8-4E62-9C1A-8042E44DD7D5</string>
+	<string>9E6F3FF7-D446-4E41-9886-0B91825451BF</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>oplb</string>
+	<string>oiu</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>oplb</string>
+	<string>oiu</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

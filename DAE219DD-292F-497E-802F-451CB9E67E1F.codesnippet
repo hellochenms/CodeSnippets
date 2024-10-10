@@ -3,19 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>td</string>
+	<string>tdhh</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// TODO:@【m2】:&lt;#content#&gt;</string>
+	<string>// TODO: chenms-4.2.0-&lt;#content#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4A1D7B7C-ECBF-4498-9106-CDF74452D561</string>
+	<string>DAE219DD-292F-497E-802F-451CB9E67E1F</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>tdhh</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>td</string>
+	<string>tdhh</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

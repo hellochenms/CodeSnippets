@@ -3,21 +3,22 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>stdu</string>
+	<string>obo</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// TODO: 需要微调 UI</string>
+	<string>self.layer.borderWidth = 1;
+self.layer.borderColor = [UIColor orangeColor].CGColor;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>3704C759-339C-4A51-BC43-2664E4C7A414</string>
+	<string>5C65C7A3-C162-4DA3-8B51-380440BB7BDB</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>stdu</string>
+	<string>obo</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>stdu</string>
+	<string>obo</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
